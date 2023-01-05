@@ -1,0 +1,6 @@
+Hello pips! i am singing a song right now and i am also typing right now,
+today i have learnd a how to access & create static file in django framework.
+Also today i have learnd how to create a model and register intp admin.py 
+file system in django framework.
+we have to register our model on admin.py ans also add module to display on 
+django administration.
