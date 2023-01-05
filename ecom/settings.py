@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 # config('DEBUG', cast=bool)
 
-ALLOWED_HOSTS = ['.vercel.app' , '.now.sh']
+ALLOWED_HOSTS = ['.vercel.app' ,'.now.sh']
 
 
 # Application definition
